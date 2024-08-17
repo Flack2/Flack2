@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Flack2&show_icons=true&count_private=true&hide_border=true&title_color=800000&icon_color=cd0000&text_color=c9d1d9&bg_color=000000" alt="Victor Rangel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=800000&text_color=800000&bg_color=000000" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flack2&layout=compact&hide_border=true&title_color=800000&text_color=800000&bg_color=000000" />
 </div>
 
 
